@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 7 |
+| 19 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
@@ -50,6 +50,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
