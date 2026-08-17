@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | 800 |
-| **Language** | Java 21 |
+| **Language** | C++17 (GCC 7-32) |
 | **Verdict** | ✅ Accepted |
 | **Problem Link** | [Codeforces 110A](https://codeforces.com/contest/110/problem/A) |
 
