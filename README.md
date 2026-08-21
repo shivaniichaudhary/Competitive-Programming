@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 7 |
+| 22 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 
 ---
 
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/96/A%20-%20Football/solution.java) |
@@ -85,6 +86,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/96/A%20-%20Football/solution.java) |
