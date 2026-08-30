@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 10 |
+| 31 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -80,6 +80,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
