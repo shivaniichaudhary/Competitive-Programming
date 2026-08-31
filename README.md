@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 10 |
+| 32 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (24)
 - [math](#math) (6)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (11)
@@ -36,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
@@ -100,6 +102,12 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 
 ### shortest paths
 
