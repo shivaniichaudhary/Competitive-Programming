@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 11 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (26)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (11)
 
 ---
@@ -60,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
@@ -122,6 +123,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### strings
