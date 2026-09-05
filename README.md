@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 11 |
+| 37 | 11 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -70,6 +70,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
