@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 11 |
+| 41 | 12 |
 
 ---
 
@@ -15,8 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (30)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
@@ -49,6 +50,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+
 ### graph matchings
 
 | # | Problem | Difficulty | Solution |
@@ -63,6 +70,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### implementation
 
