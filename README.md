@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 12 |
+| 45 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (33)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
@@ -42,6 +42,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### constructive algorithms
@@ -121,6 +122,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/200/B%20-%20Drinks/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/617/A%20-%20Elephant/solution.java) |
