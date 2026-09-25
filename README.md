@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 14 |
+| 53 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 
 ---
 
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 
 ### brute force
 
@@ -78,6 +79,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
@@ -107,6 +109,7 @@
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
@@ -179,6 +182,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/208/A%20-%20Dubstep/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivaniichaudhary/Competitive-Programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
